@@ -31,9 +31,9 @@ These programs should all be completed in either a text editor or cloud9.
 | 5 | transport.js | ...has one variable that is named "modeOfTransit" and is set to the string "bicycle." Write another variable that is named "numberOfWheels" and set it to the number 2. Print both variables. | 1 | 
 | 5a | transport.js (unicycle)  | ...uses division to set "numberOfWheels" to one and set "modeOfTransit" to unicycle.| 2 | 
 | 6 | avg.js | ...asks for two numbers and prints the average of those two numbers. | 2 |
-| 7 | madlibs1.js  | ...asks for one item then prints out a sentance using that item.    | 2 | 
+| 7 | madlibs1.js  | ...asks for one item then prints out a sentence using that item.    | 2 | 
 | 8 | madlibs3.js  | ...asks for three items then prints out a story using all three items.| 4 |
-| 9 | roman.js  | ...can convert any interger from 1-1000 into a roman numeral.| 8 |  
+| 9 | roman.js  | ...can convert any integer from 1-1000 into a roman numeral.| 8 |  
 
 ####JavaScript: Strings
 
@@ -51,7 +51,7 @@ These programs should all be completed in either a text editor or cloud9.
 | Clue  | Name | Create a program that... | Points | 
 |-------|:-------:|------|--------------|
 | 1 | scriptEdLove.js | ...asks if you love ScriptEd and responds either "Yay!" or "Boo!" | 2 | 
-| 2 | iceCream.js | ...asks what your favorite Ice Cream is and responds either "Yay! Chocholate" or "Boo! Vanilla" or "Huh?" | 2 | 
+| 2 | iceCream.js | ...asks what your favorite Ice Cream is and responds either "Yay! Chocolate" or "Boo! Vanilla" or "Huh?" | 2 | 
 | 3 | class.js | ...asks a student what grade they are in and responds with "You are a Freshman", Sophomore, Junior or Senior. | 3 |
 | 4 | dayOfWeek.js | ...asks what day of the week it is and has a response for each day of the week | 3 |
 | 5 | lazyEight.js | Create a Magic 8 Ball program that claims to be able to answer any question you have. However, it always answers the same thing, "IDK stop asking!" | 3 |

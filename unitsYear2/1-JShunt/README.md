@@ -1,12 +1,12 @@
 #Project 1 - Scavenger Hunt
 ![Image](http://i.imgur.com/N7dzgjo.png)
 ##Scope
-This main goal of this project to re-familiarize the students with the skills learned in year 1. The structure of the project is to have many short (<10 lines) programs that all have a point value determined by difficulty. There are many programs to choose from but the length of this project should be made by the teacher's discretion. **The project should end when the teacher feels that all students in the class are ready to move on to project 2.** 
+The main goal of this project is to re-familiarize the students with the skills learned in year 1. The structure of the project is to have many short (<10 lines) programs that all have a point value determined by difficulty. There are many programs to choose from but the length of this project should be made by the teacher's discretion. **The project should end when the teacher feels that all students in the class are ready to move on to project 2.** 
 
 
 
 #Before Class
-*The teacher should familiarize themselves with the programs in the [Clues Worksheet](clues/README.md). This will help the teacher prepare for any questions that may arise.
+*The teachers should familiarize themselves with the programs in the [Clues Worksheet](clues/README.md). This will help the teacher prepare for any questions that may arise.
 *Have a system for checking off every program a student completes. It is important to keep track of which program each student has completed. This way they cannot submit a program twice. 
 * Set up a scoreboard --  either digital or written.
 *Printing a copy of the [Clues Worksheet](clues/README.md) for each student is recommended. 
@@ -72,8 +72,8 @@ Before students begin work on this project they must be introduced to the follow
 * Programs build on each other, so it is in your best interest to complete them sequentially.
 * When completed with a program, save it (This is so the students have a library of programs to reference back to in the future.) 
 * Students should raise their hand when a program is complete so a teacher can come over to check it before moving onto the next program.  
-* Even though programs build on each other, it is important to complete each program in its own file (there are few expections, teachers should use their best judgement). 
-* Collaboration is encouraged.. copying is not!
+* Even though programs build on each other, it is important to complete each program in its own file (there are few expectations, teachers should use their best judgement). 
+* Collaboration is encouraged... copying is not!
 * Before moving onto a new program the student must have a program checked and their score tallied by a teacher. 
 * Prizes will be awarded to the top point earners.
 
