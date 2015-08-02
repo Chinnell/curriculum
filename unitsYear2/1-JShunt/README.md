@@ -1,4 +1,4 @@
-#Project 1 - Scavenger Hunt
+#TESTProject 1 - Scavenger Hunt
 ![Image](http://i.imgur.com/N7dzgjo.png)
 ##Scope
 The main goal of this project is to re-familiarize the students with the skills learned in year 1. The structure of the project is to have many short (<10 lines) programs that all have a point value determined by difficulty. There are many programs to choose from but the length of this project should be made by the teacher's discretion. **The project should end when the teacher feels that all students in the class are ready to move on to project 2.** 
