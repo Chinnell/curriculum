@@ -3,15 +3,15 @@
 
 ##Scope
 
-This project will introduce the student to simple one page javascript app to play Rock-Paper-Scissors. They will be introduced to the idea of libraries and the use the use the JQuery library to manage events.  The students should have previous experience with events and event handlers.  Furthermore they will be introduced to Random numbers and how they are simulated in computers.  After they have completed the simple game, they can be asked to complete a more complex variant, [Rock-Paper-Scissors-Lizard-Spock](./rpslp.jpg).
+This project will introduce the student to a simple one-page JavaScript app to play Rock-Paper-Scissors. She will be introduced to the idea of libraries and the use of the JQuery library to manage events.  The student should have previous experience with events and event handlers.  Furthermore, she will be introduced to Random numbers and how they are simulated in computers.  After she has completed the simple game, the student can be asked to complete a more complex variant, [Rock-Paper-Scissors-Lizard-Spock](./rpslp.jpg).
 
 #Before Class
 
 The teacher should become familar with the following topics.
 * Javascript Events
 * The JQuery Documentation and how to nagivate it, especially the documentation about events
-* Javascript Libraries and how they should be loaded into a page
-* Random and PseudoRandom numbers, ie the what makes a number "random"
+* JavaScript Libraries and how they should be loaded into a page
+* Random and PseudoRandom numbers, ie. what makes a number "random"
 
 
 ##Vocabulary
@@ -43,7 +43,7 @@ While completing this project the student will learn about how to simulate rando
 
 **Version Control:**   
 
-The student will be asked to create an initial version of RPS. After they have committed that version and confirmed that it works, they can begin to modifying it to create the more complicated RPSLS version.
+The student will be asked to create an initial version of RPS. After she has committed that version and confirmed that it works, she can begin to modifying it to create the more complicated RPSLS version.
 
 **Code Review:**   
 
@@ -122,30 +122,29 @@ Before students begin work on this project they must be introduced to the follow
 
 ##Project Creation Time
 
-The students will be given a [skeleton](scaffold.html?raw=true) project with no assets and only scaffold code. They will have to copy the files from the gihub project.
-They teachers can demonstrate how to do it. 
+The student will be given a [skeleton](scaffold.html?raw=true) project with no assets and only scaffold code. She will have to copy the files from the gihub project.
+The teachers can demonstrate how to do it. 
 
-Once they have the skeleton, they will have to fill in the logic of the game for the ai portion and also logic to determine the winner.
-They will be given image assets that they can use to flesh out the game.  After the teacher confirms that the game is working, 
-they will be asked to make the AI paritial to one of the 3 choices by varying the distribution of the random number picker.
+Once the student has the skeleton, she will have to fill in the logic of the game for the computerized portion and also logic to determine the winner.
+She will be given image assets that she can use to figure out/navigate through the game.  After the teacher confirms that the game is working, the student will be asked to make the computerized actions more likely to select one of the 3 choices by varying the distribution of the random number picker.
 
-If there is time, they can move onto the Lizard Spock variant with 5 choices.
+If there is time, the student can move onto the Lizard Spock variant with 5 choices.
 
 ##Closing
 
-They day can be wrapped up by having a RPS competition with the students and their apps entered into a Bracket, with each competition being a best of 3 between a student and another student's appliaction.
+The day can be wrapped up by having an RPS competition with the students and their apps entered into a Bracket, with each competition being a best-of-3 match between a student and another student's appliaction.
 
 ##Check for Understanding
 
-Ask students how they would use double click instead of single click to signal their choice.
+Ask the student how she would use double click instead of single click to signal her choice of either rock, paper, or scissors.
 
-Ask students how they would modify the AI to pick Rock 1% of the time and the other choices equally.
+Ask the student how she would modify the computerization to pick Rock 1% of the time and the other choices equally.
 
 ##How to Submit
-The teacher must ask students to share the link to their project on your school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
+The teacher must ask the student to share the link to her project on her school's [Project Submission Form.](https://docs.google.com/a/scripted.org/spreadsheets/d/1kaVH9hmkDCbBul19583UMPxl6IJ3-4pHgBQ2BU6TKDk/edit#gid=0)
 
 ##Homework
-A possible homework is for the Lizard Spock variant with 5 choices.
+A possible homework assignment is the Lizard Spock variant with 5 choices.
 
 
 ## Proper credit for images
